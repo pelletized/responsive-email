@@ -118,6 +118,7 @@ margin:-40px auto 0 auto;
 
 /* header */
 .header {
+clear:both;
 background:#000000 url(http://i.imgur.com/Lt6tDbB.png) no-repeat 0 0;
 width:100%;
 background-size: contain;
@@ -164,6 +165,11 @@ margin:0 auto;
 .subcontent-hero {
 max-width:120px;
 margin-right:20px;
+}
+
+.subcontent-hero p {
+margin:0;
+padding:0;
 }
 
 .subcontent-hero-percent {
